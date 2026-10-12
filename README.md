@@ -1,4 +1,4 @@
-# One-Page Modelo — landing page editável
+# Site Oficial da Crivo.Sites
 
 Landing page de página única em **Next.js 16 + React 19 + Tailwind CSS 4**, feita para ser
 reutilizada como modelo: **todo o conteúdo do site vive em um único arquivo JSON**
