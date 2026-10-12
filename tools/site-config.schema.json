@@ -1,0 +1,195 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://onepageteste/tools/site-config.schema.json",
+  "title": "SiteConfig",
+  "description": "Contrato único de conteudo do template. A IA e o painel DEVEM produzir este formato. Campos ausentes sao preenchidos por mergeSiteConfig, entao o site nunca quebra.",
+  "type": "object",
+  "required": ["meta", "brand"],
+  "additionalProperties": true,
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": ["title", "description"],
+      "additionalProperties": true,
+      "properties": {
+        "title": { "type": "string", "maxLength": 60 },
+        "description": { "type": "string", "maxLength": 160 },
+        "keywords": { "type": "array", "items": { "type": "string" } },
+        "siteUrl": { "type": "string" },
+        "locale": { "type": "string", "const": "pt_BR" },
+        "ogTitle": { "type": "string" },
+        "ogDescription": { "type": "string" },
+        "themeColor": { "type": "string", "pattern": "^#([0-9a-fA-F]{3}|[0-9a-fA-F]{6})$" },
+        "business": {
+          "type": "object",
+          "additionalProperties": true,
+          "properties": {
+            "type": { "$ref": "#/$defs/businessType" },
+            "legalName": { "type": "string" },
+            "priceRange": { "type": "string" },
+            "areaServed": { "type": "string" },
+            "currency": { "type": "string", "const": "BRL" },
+            "latitude": { "type": "string" },
+            "longitude": { "type": "string" },
+            "address": { "$ref": "#/$defs/address" },
+            "sameAs": { "type": "array", "items": { "type": "string" } }
+          }
+        }
+      }
+    },
+    "brand": {
+      "type": "object",
+      "required": ["name"],
+      "additionalProperties": true,
+      "properties": {
+        "logoIcon": { "type": "string" },
+        "name": { "type": "string" },
+        "tagline": { "type": "string" },
+        "copyright": { "type": "string" },
+        "whatsappUrl": { "type": "string" },
+        "instagramUrl": { "type": "string" },
+        "email": { "type": "string" },
+        "phoneLabel": { "type": "string" },
+        "phoneUrl": { "type": "string" }
+      }
+    },
+    "navbar": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "links": { "type": "array", "items": { "type": "object", "required": ["label", "href"], "properties": { "label": { "type": "string" }, "href": { "type": "string" } } } },
+        "ctaLabel": { "type": "string" },
+        "ctaUrl": { "type": "string" }
+      }
+    },
+    "hero": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "eyebrow": { "type": "string" },
+        "title": { "type": "string" },
+        "highlight": { "type": "string" },
+        "description": { "type": "string" },
+        "primaryLabel": { "type": "string" },
+        "primaryUrl": { "type": "string" },
+        "secondaryLabel": { "type": "string" },
+        "secondaryUrl": { "type": "string" },
+        "tags": { "type": "array", "items": { "type": "string" }, "maxItems": 6 }
+      }
+    },
+    "services": { "$ref": "#/$defs/iconSection" },
+    "portfolio": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "eyebrow": { "type": "string" },
+        "title": { "type": "string" },
+        "description": { "type": "string" },
+        "items": { "type": "array", "items": { "type": "object", "required": ["image"], "properties": { "image": { "type": "string" }, "title": { "type": "string" }, "category": { "type": "string" }, "description": { "type": "string" } } } }
+      }
+    },
+    "about": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "title": { "type": "string" },
+        "titleBefore": { "type": "string" },
+        "titleHighlight": { "type": "string" },
+        "titleAfter": { "type": "string" },
+        "description": { "type": "string" },
+        "values": { "type": "array", "items": { "$ref": "#/$defs/iconItem" } },
+        "stats": { "type": "array", "items": { "type": "object", "required": ["number", "label"], "properties": { "number": { "type": "string" }, "label": { "type": "string" } } } }
+      }
+    },
+    "process": { "$ref": "#/$defs/iconSection" },
+    "testimonials": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "title": { "type": "string" },
+        "description": { "type": "string" },
+        "items": { "type": "array", "items": { "type": "object", "required": ["quote", "name"], "properties": { "quote": { "type": "string" }, "name": { "type": "string" }, "role": { "type": "string" } } } }
+      }
+    },
+    "faq": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "title": { "type": "string" },
+        "description": { "type": "string" },
+        "items": { "type": "array", "items": { "type": "object", "required": ["question", "answer"], "properties": { "question": { "type": "string" }, "answer": { "type": "string" } } } }
+      }
+    },
+    "contact": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "ctaLabel": { "type": "string" },
+        "ctaUrl": { "type": "string" },
+        "addressLines": { "type": "array", "items": { "type": "string" } },
+        "mapUrl": { "type": "string" },
+        "mapEmbedUrl": { "type": "string" },
+        "phone": { "type": "string" },
+        "phoneUrl": { "type": "string" },
+        "hoursLines": { "type": "array", "items": { "type": "string" } },
+        "hoursStructured": { "type": "array", "items": { "type": "object", "required": ["days", "opens", "closes"], "properties": { "days": { "type": "array", "items": { "type": "string" } }, "opens": { "type": "string", "pattern": "^[0-2][0-9]:[0-5][0-9]$" }, "closes": { "type": "string", "pattern": "^[0-2][0-9]:[0-5][0-9]$" } } } }
+      }
+    },
+    "colors": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "primary": { "type": "string", "pattern": "^#([0-9a-fA-F]{3}|[0-9a-fA-F]{6})$" },
+        "primaryForeground": { "type": "string" },
+        "background": { "type": "string" },
+        "foreground": { "type": "string" },
+        "mutedForeground": { "type": "string" }
+      }
+    }
+  },
+  "$defs": {
+    "iconName": {
+      "type": "string",
+      "description": "Nome de icone aceito. Precisa existir em lib/icons.ts.",
+      "enum": ["award","bath","briefcase","building","camera","car","check","checkCircle","clock","code","creditCard","cpu","droplets","dumbbell","flower","gem","globe","graduation","hammer","heart","home","instagram","key","layers","leaf","lightbulb","mapPin","message","package","paint","palette","paw","phone","rocket","scissors","shirt","shield","shoppingBag","shovel","sparkles","sprout","star","stethoscope","sun","tree","trendingUp","truck","users","utensils","whatsapp","wrench","zap"]
+    },
+    "businessType": {
+      "type": "string",
+      "description": "Tipo schema.org usado no JSON-LD.",
+      "enum": ["LocalBusiness","Store","HomeAndConstructionBusiness","ProfessionalService","Restaurant","FoodEstablishment","HealthAndBeautyBusiness","BeautySalon","HairSalon","DaySpa","NailSalon","Dentist","MedicalBusiness","Physician","VeterinaryCare","PetStore","AutomotiveBusiness","AutoRepair","RealEstateAgent","FinancialService","LegalService","AccountingService","ExerciseGym","SportsActivityLocation","ChildCare","DryCleaningOrLaundry","Electrician","Plumber","HousePainter","Locksmith","MovingCompany","RoofingContractor","GeneralContractor"]
+    },
+    "address": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "street": { "type": "string" },
+        "district": { "type": "string" },
+        "city": { "type": "string" },
+        "region": { "type": "string" },
+        "postalCode": { "type": "string" },
+        "country": { "type": "string", "const": "BR" }
+      }
+    },
+    "iconItem": {
+      "type": "object",
+      "required": ["title", "description"],
+      "additionalProperties": true,
+      "properties": {
+        "icon": { "$ref": "#/$defs/iconName" },
+        "title": { "type": "string" },
+        "description": { "type": "string" }
+      }
+    },
+    "iconSection": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "eyebrow": { "type": "string" },
+        "title": { "type": "string" },
+        "description": { "type": "string" },
+        "items": { "type": "array", "items": { "$ref": "#/$defs/iconItem" } },
+        "steps": { "type": "array", "items": { "$ref": "#/$defs/iconItem" } }
+      }
+    }
+  }
+}

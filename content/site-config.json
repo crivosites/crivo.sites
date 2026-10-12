@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "title": "Plantas e Paisagismo em Camaçari - BA | Busca Vida Garden",
+    "description": "Plantas ornamentais, vasos, substratos e produtos para piscina em Camaçari - BA. Atendimento especializado para deixar sua casa mais viva. Fale com a gente.",
+    "keywords": [
+      "loja de plantas em Camaçari",
+      "plantas ornamentais Camaçari",
+      "vasos e decoração Camaçari",
+      "paisagismo em Camaçari BA",
+      "produtos para piscina Camaçari",
+      "terra e adubos Camaçari",
+      "paisagista Busca Vida"
+    ],
+    "siteUrl": "https://buscavidagarden.com.br",
+    "locale": "pt_BR",
+    "ogTitle": "Busca Vida Garden | Plantas, vasos e paisagismo em Camaçari",
+    "ogDescription": "Tudo para o seu jardim em um só lugar: plantas ornamentais, vasos, terra e adubos, produtos para piscina e orientação de quem entende do assunto.",
+    "themeColor": "#3f9f5b",
+    "business": {
+      "type": "Store",
+      "legalName": "Busca Vida Garden",
+      "priceRange": "$$",
+      "areaServed": "Camaçari, Catu de Abrantes e região - BA",
+      "currency": "BRL",
+      "latitude": "",
+      "longitude": "",
+      "address": {
+        "street": "R Direta de Busca Vida, S/N, Quadra 16",
+        "district": "Catu de Abrantes",
+        "city": "Camaçari",
+        "region": "BA",
+        "postalCode": "42825-576",
+        "country": "BR"
+      },
+      "sameAs": [
+        "https://www.instagram.com/buscavidagarden9"
+      ]
+    }
+  },
+  "brand": {
+    "logoIcon": "✿",
+    "name": "Busca Vida Garden",
+    "tagline": "Plantas, paisagismo e cuidado",
+    "copyright": "© 2025 Busca Vida Garden. Todos os direitos reservados.",
+    "whatsappUrl": "https://wa.me/5571997092070",
+    "instagramUrl": "https://www.instagram.com/buscavidagarden9",
+    "email": "",
+    "phoneLabel": "(71) 99709-2070",
+    "phoneUrl": "tel:+5571997092070"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Serviços",
+        "href": "#servicos"
+      },
+      {
+        "label": "Portfólio",
+        "href": "#portfolio"
+      },
+      {
+        "label": "Sobre nós",
+        "href": "#sobre-nos"
+      },
+      {
+        "label": "Como funciona",
+        "href": "#como-funciona"
+      },
+      {
+        "label": "Depoimentos",
+        "href": "#depoimentos"
+      },
+      {
+        "label": "Dúvidas",
+        "href": "#faq"
+      }
+    ],
+    "ctaLabel": "Falar no WhatsApp",
+    "ctaUrl": "https://wa.me/5571997092070",
+    "menuTitle": "Menu",
+    "menuDescription": "Navegue pelas seções do site",
+    "menuToggleLabel": "Abrir menu",
+    "themeToggleLabel": "Alternar tema"
+  },
+  "hero": {
+    "eyebrow": "Plantas ornamentais, vasos e piscina",
+    "title": "Seu jardim fica pronto",
+    "highlight": "já neste fim de semana",
+    "description": "Tudo o que você precisa para deixar a casa mais bonita e viva em um só lugar: plantas ornamentais, vasos, substratos, adubos e produtos para piscina — com orientação de quem entende para você acertar na escolha sem perder tempo nem dinheiro.",
+    "primaryLabel": "Falar no WhatsApp agora",
+    "primaryUrl": "https://wa.me/5571997092070?text=Olá!%20Quero%20saber%20mais%20sobre%20os%20produtos%20e%20serviços%20da%20Busca%20Vida%20Garden.",
+    "secondaryLabel": "Ver produtos e serviços",
+    "secondaryUrl": "#servicos",
+    "tags": [
+      "Plantas ornamentais",
+      "Vasos e decoração",
+      "Produtos para piscina",
+      "Terra e adubos"
+    ]
+  },
+  "services": {
+    "eyebrow": "O que você encontra aqui",
+    "title": "Tudo para cultivar bons momentos",
+    "description": "Da primeira muda ao cuidado diário: escolha o que precisa, receba orientação de verdade e leve para casa soluções que combinam com o seu espaço.",
+    "items": [
+      {
+        "icon": "sprout",
+        "title": "Plantas ornamentais",
+        "description": "Espécies para dentro e fora de casa, selecionadas para trazer mais verde, beleza e vida ao seu ambiente."
+      },
+      {
+        "icon": "home",
+        "title": "Vasos e decoração",
+        "description": "Vasos, cachepôs e acessórios para combinar com o seu estilo e valorizar cada planta."
+      },
+      {
+        "icon": "shovel",
+        "title": "Jardim e paisagismo",
+        "description": "Insumos e orientação prática para plantar, cuidar e manter seu jardim bonito o ano inteiro."
+      },
+      {
+        "icon": "droplets",
+        "title": "Produtos para piscina",
+        "description": "Tudo para manter sua piscina limpa, equilibrada e pronta para os melhores momentos."
+      },
+      {
+        "icon": "package",
+        "title": "Terra e adubos",
+        "description": "Substratos e adubos que ajudam suas plantas a crescerem fortes, saudáveis e por muito mais tempo."
+      },
+      {
+        "icon": "flower",
+        "title": "Atendimento especializado",
+        "description": "Conte com uma equipe próxima para encontrar exatamente o produto certo para a sua necessidade."
+      }
+    ]
+  },
+  "portfolio": {
+    "eyebrow": "Nosso trabalho",
+    "title": "Um pouco do nosso trabalho",
+    "description": "Fotos reais de serviços, produtos e ambientes. Fale com a gente pelo WhatsApp para saber mais.",
+    "items": []
+  },
+  "about": {
+    "eyebrow": "Sobre a Busca Vida Garden",
+    "titleBefore": "Natureza que",
+    "titleHighlight": "transforma",
+    "titleAfter": "ambientes",
+    "description": "Cuidar do seu espaço pode ser simples. Na Busca Vida Garden você encontra tudo para cultivar, decorar e aproveitar melhor cada cantinho da sua casa — com quem entende de planta ao seu lado.",
+    "values": [
+      {
+        "icon": "check",
+        "title": "Qualidade garantida",
+        "description": "Produtos selecionados para acompanhar a sua rotina de cuidado."
+      },
+      {
+        "icon": "layers",
+        "title": "Variedade de verdade",
+        "description": "Opções para encontrar tudo o que precisa em uma única visita."
+      },
+      {
+        "icon": "shield",
+        "title": "Confiança",
+        "description": "Atendimento honesto e próximo, do primeiro contato à entrega."
+      },
+      {
+        "icon": "users",
+        "title": "Atendimento próximo",
+        "description": "A sua casa e o seu jardim são sempre o centro da conversa."
+      },
+      {
+        "icon": "home",
+        "title": "Para a sua casa",
+        "description": "Soluções pensadas para todos os tipos de ambiente."
+      },
+      {
+        "icon": "sun",
+        "title": "Vida ao ar livre",
+        "description": "Mais verde, beleza e bem-estar para aproveitar do lado de fora."
+      }
+    ],
+    "stats": [
+      {
+        "number": "50+",
+        "label": "Categorias"
+      },
+      {
+        "number": "45+",
+        "label": "Produtos selecionados"
+      },
+      {
+        "number": "30+",
+        "label": "Soluções para jardim"
+      },
+      {
+        "number": "3+",
+        "label": "Anos cuidando de jardins"
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Como podemos ajudar",
+    "titleBefore": "Do",
+    "titleHighlight": "primeiro vaso",
+    "titleMiddle": "ao",
+    "titleAfter": "jardim completo",
+    "description": "Em três passos simples, você sai da loja com tudo o que precisa para transformar seu espaço — sem dúvida, sem retrabalho.",
+    "steps": [
+      {
+        "icon": "lightbulb",
+        "title": "1. Escolha e planejamento",
+        "description": "Entendemos o que você procura e indicamos as plantas, vasos e produtos ideais para o seu espaço."
+      },
+      {
+        "icon": "palette",
+        "title": "2. Montagem e cuidado",
+        "description": "Com os produtos certos, você cria composições bonitas e mantém as plantas saudáveis por mais tempo."
+      },
+      {
+        "icon": "rocket",
+        "title": "3. Aproveite seu espaço",
+        "description": "Leve mais verde para dentro e para fora de casa e conte com a gente sempre que precisar."
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Quem conhece, recomenda",
+    "title": "Mais de 3 anos ajudando a transformar casas em Camaçari",
+    "description": "Na Busca Vida Garden, qualidade e cuidado vêm sempre em primeiro lugar. Veja o que dizem quem já levou nossas plantas e soluções para casa.",
+    "items": [
+      {
+        "quote": "Encontrei plantas lindas e um atendimento que realmente entende do assunto. Minha casa ficou muito mais viva.",
+        "name": "Ana Paula Souza",
+        "role": "Cliente residencial"
+      },
+      {
+        "quote": "A equipe ajudou a escolher os vasos e os cuidados para cada ambiente. Foi fácil, rápido e o resultado ficou lindo.",
+        "name": "Carlos Henrique Lima",
+        "role": "Cliente residencial"
+      },
+      {
+        "quote": "Além da variedade, gostei muito da orientação. Saí com tudo o que precisava para montar meu jardim.",
+        "name": "Mariana Oliveira",
+        "role": "Paisagista"
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Perguntas frequentes",
+    "title": "Ainda tem dúvida? A gente responde",
+    "description": "As perguntas que mais recebemos de quem está montando ou cuidando do jardim.",
+    "items": [
+      {
+        "question": "Onde fica a Busca Vida Garden?",
+        "answer": "Estamos na R Direta de Busca Vida, S/N, Quadra 16, Catu de Abrantes, Camaçari - BA (CEP 42.825-576). Se preferir, fale com a gente pelo WhatsApp que enviamos a localização exata."
+      },
+      {
+        "question": "Quais produtos vocês oferecem?",
+        "answer": "Plantas ornamentais, vasos e itens de decoração, substratos e adubos, insumos para jardim e paisagismo e a linha completa de produtos para piscina."
+      },
+      {
+        "question": "Vocês ajudam a escolher as plantas certas para o meu espaço?",
+        "answer": "Sim. Nossa equipe entende a sua necessidade (sol, sombra, espaço interno ou externo) e indica as espécies e os cuidados ideais para cada ambiente."
+      },
+      {
+        "question": "Preciso agendar para ser atendido?",
+        "answer": "Não é obrigatório. Você pode passar na loja no horário de atendimento — de segunda a sexta, das 8h às 18h, e sábado das 8h às 12h. Se quiser garantir um atendimento dedicado, chame no WhatsApp antes."
+      },
+      {
+        "question": "Como faço para pedir um orçamento ou tirar dúvidas?",
+        "answer": "É só tocar no botão de WhatsApp em qualquer parte do site. Você fala direto com nossa equipe e recebe a orientação que precisa."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Próximo passo",
+    "titleBefore": "Vamos cuidar do seu",
+    "titleHighlight": "jardim hoje?",
+    "titleAfter": "",
+    "description": "Fale com a Busca Vida Garden e encontre as plantas, os vasos e os produtos certos para transformar o seu espaço. Respondemos rápido.",
+    "ctaLabel": "Solicitar orçamento pelo WhatsApp",
+    "ctaUrl": "https://wa.me/5571997092070?text=Olá!%20Gostaria%20de%20um%20orçamento%20na%20Busca%20Vida%20Garden.",
+    "ctaNote": "Fale direto com a nossa equipe — sem robô, sem espera.",
+    "visitEyebrow": "Visite a loja",
+    "visitTitle": "Estamos perto de você",
+    "addressLabel": "Endereço",
+    "addressLines": [
+      "R Direta de Busca Vida, S/N, Quadra 16",
+      "Catu de Abrantes, Camaçari - BA",
+      "CEP 42.825-576"
+    ],
+    "mapLabel": "Abrir no Google Maps",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=R+Direta+de+Busca+Vida,+S/N,+Quadra+16,+Catu+de+Abrantes,+Camaçari+-+BA,+42825-576",
+    "mapEmbedUrl": "https://www.google.com/maps?q=R%20Direta%20de%20Busca%20Vida%2C%20S%2FN%2C%20Quadra%2016%2C%20Catu%20de%20Abrantes%2C%20Cama%C3%A7ari%20-%20BA%2042825-576&output=embed",
+    "phoneLabel": "Telefone",
+    "phone": "(71) 99709-2070",
+    "phoneUrl": "tel:+5571997092070",
+    "hoursLabel": "Horário de atendimento",
+    "hoursLines": [
+      "Segunda a sexta: 8h às 18h",
+      "Sábado: 8h às 12h"
+    ],
+    "hoursStructured": [
+      {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "18:00"
+      },
+      {
+        "days": [
+          "Saturday"
+        ],
+        "opens": "08:00",
+        "closes": "12:00"
+      }
+    ]
+  },
+  "footer": {
+    "navigationTitle": "Navegação",
+    "socialTitle": "Fale com a gente",
+    "socials": [
+      {
+        "icon": "instagram",
+        "label": "Instagram",
+        "url": "https://www.instagram.com/buscavidagarden9"
+      },
+      {
+        "icon": "whatsapp",
+        "label": "WhatsApp",
+        "url": "https://wa.me/5571997092070"
+      }
+    ],
+    "note": "Somos especializados em plantas, jardinagem, paisagismo e produtos para piscina em Camaçari - BA."
+  },
+  "colors": {
+    "primary": "#3f9f5b",
+    "primaryForeground": "#ffffff",
+    "background": "#fbfdf9",
+    "foreground": "#18221b",
+    "mutedForeground": "#647067"
+  }
+}
