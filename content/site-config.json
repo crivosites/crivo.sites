@@ -1,348 +1,278 @@
 {
   "meta": {
-    "title": "Plantas e Paisagismo em Camaçari - BA | Busca Vida Garden",
-    "description": "Plantas ornamentais, vasos, substratos e produtos para piscina em Camaçari - BA. Atendimento especializado para deixar sua casa mais viva. Fale com a gente.",
+    "title": "Crivo Sites | Criação de Sites Profissionais e Lojas Virtuais",
+    "description": "Desenvolvimento de sites profissionais, landing pages e e-commerces de alta conversão. Coloque sua empresa na internet com quem entende de resultados.",
     "keywords": [
-      "loja de plantas em Camaçari",
-      "plantas ornamentais Camaçari",
-      "vasos e decoração Camaçari",
-      "paisagismo em Camaçari BA",
-      "produtos para piscina Camaçari",
-      "terra e adubos Camaçari",
-      "paisagista Busca Vida"
+      "criação de sites",
+      "desenvolvimento web",
+      "comprar site profissional",
+      "criar landing page",
+      "loja virtual profissional",
+      "site para empresas",
+      "crivo sites"
     ],
-    "siteUrl": "https://buscavidagarden.com.br",
+    "siteUrl": "https://vercel.app",
     "locale": "pt_BR",
-    "ogTitle": "Busca Vida Garden | Plantas, vasos e paisagismo em Camaçari",
-    "ogDescription": "Tudo para o seu jardim em um só lugar: plantas ornamentais, vasos, terra e adubos, produtos para piscina e orientação de quem entende do assunto.",
-    "themeColor": "#3f9f5b",
+    "ogTitle": "Crivo Sites | Seu Negócio Pronto para Vender na Internet",
+    "ogDescription": "Criamos sites modernos, rápidos e focados em vendas para destacar sua marca no mercado digital. Peça seu orçamento.",
+    "themeColor": "#2563eb",
     "business": {
-      "type": "Store",
-      "legalName": "Busca Vida Garden",
+      "type": "ProfessionalService",
+      "legalName": "Crivo Sites",
       "priceRange": "$$",
-      "areaServed": "Camaçari, Catu de Abrantes e região - BA",
+      "areaServed": "Brasil (Atendimento 100% Online)",
       "currency": "BRL",
       "latitude": "",
       "longitude": "",
       "address": {
-        "street": "R Direta de Busca Vida, S/N, Quadra 16",
-        "district": "Catu de Abrantes",
-        "city": "Camaçari",
-        "region": "BA",
-        "postalCode": "42825-576",
+        "street": "Atendimento Digital",
+        "district": "",
+        "city": "Online",
+        "region": "BR",
+        "postalCode": "",
         "country": "BR"
       },
       "sameAs": [
-        "https://www.instagram.com/buscavidagarden9"
+        "https://instagram.com"
       ]
     }
   },
   "brand": {
-    "logoIcon": "✿",
-    "name": "Busca Vida Garden",
-    "tagline": "Plantas, paisagismo e cuidado",
-    "copyright": "© 2025 Busca Vida Garden. Todos os direitos reservados.",
-    "whatsappUrl": "https://wa.me/5571997092070",
-    "instagramUrl": "https://www.instagram.com/buscavidagarden9",
-    "email": "",
-    "phoneLabel": "(71) 99709-2070",
-    "phoneUrl": "tel:+5571997092070"
+    "logoIcon": "🌐",
+    "name": "Crivo Sites",
+    "tagline": "Sites profissionais que geram resultados",
+    "copyright": "© 2026 Crivo Sites. Todos os direitos reservados.",
+    "whatsappUrl": "https://wa.me",
+    "instagramUrl": "https://instagram.com",
+    "email": "contato@crivosites.com.br",
+    "phoneLabel": "(00) 00000-0000",
+    "phoneUrl": "tel:+5500000000000"
   },
   "navbar": {
     "links": [
-      {
-        "label": "Serviços",
-        "href": "#servicos"
-      },
-      {
-        "label": "Portfólio",
-        "href": "#portfolio"
-      },
-      {
-        "label": "Sobre nós",
-        "href": "#sobre-nos"
-      },
-      {
-        "label": "Como funciona",
-        "href": "#como-funciona"
-      },
-      {
-        "label": "Depoimentos",
-        "href": "#depoimentos"
-      },
-      {
-        "label": "Dúvidas",
-        "href": "#faq"
-      }
+      { "label": "Soluções", "href": "#servicos" },
+      { "label": "Portfólio", "href": "#portfolio" },
+      { "label": "Sobre nós", "href": "#sobre-nos" },
+      { "label": "Como funciona", "href": "#como-funciona" },
+      { "label": "Depoimentos", "href": "#depoimentos" },
+      { "label": "Dúvidas", "href": "#faq" }
     ],
-    "ctaLabel": "Falar no WhatsApp",
-    "ctaUrl": "https://wa.me/5571997092070",
+    "ctaLabel": "Solicitar Site",
+    "ctaUrl": "https://wa.me?text=Olá! Quero criar um site para o meu negócio.",
     "menuTitle": "Menu",
-    "menuDescription": "Navegue pelas seções do site",
+    "menuDescription": "Navegue pelo nosso site",
     "menuToggleLabel": "Abrir menu",
     "themeToggleLabel": "Alternar tema"
   },
   "hero": {
-    "eyebrow": "Plantas ornamentais, vasos e piscina",
-    "title": "Seu jardim fica pronto",
-    "highlight": "já neste fim de semana",
-    "description": "Tudo o que você precisa para deixar a casa mais bonita e viva em um só lugar: plantas ornamentais, vasos, substratos, adubos e produtos para piscina — com orientação de quem entende para você acertar na escolha sem perder tempo nem dinheiro.",
-    "primaryLabel": "Falar no WhatsApp agora",
-    "primaryUrl": "https://wa.me/5571997092070?text=Olá!%20Quero%20saber%20mais%20sobre%20os%20produtos%20e%20serviços%20da%20Busca%20Vida%20Garden.",
-    "secondaryLabel": "Ver produtos e serviços",
+    "eyebrow": "Desenvolvimento Web Profissional",
+    "title": "Sua empresa vendendo mais",
+    "highlight": "com um site profissional",
+    "description": "Criamos landing pages, sites institucionais e lojas virtuais de alta performance — totalmente otimizados para o Google, velozes e prontos para converter visitantes em clientes pagantes.",
+    "primaryLabel": "Criar Meu Site Agora",
+    "primaryUrl": "https://wa.me?text=Olá! Quero um orçamento de site profissional.",
+    "secondaryLabel": "Conhecer Soluções",
     "secondaryUrl": "#servicos",
     "tags": [
-      "Plantas ornamentais",
-      "Vasos e decoração",
-      "Produtos para piscina",
-      "Terra e adubos"
+      "Landing Pages",
+      "Sites Institucionais",
+      "Lojas Virtuais (E-commerce)",
+      "Otimização SEO"
     ]
   },
   "services": {
-    "eyebrow": "O que você encontra aqui",
-    "title": "Tudo para cultivar bons momentos",
-    "description": "Da primeira muda ao cuidado diário: escolha o que precisa, receba orientação de verdade e leve para casa soluções que combinam com o seu espaço.",
+    "eyebrow": "Nossas Soluções",
+    "title": "Tudo o que sua presença digital precisa",
+    "description": "Do design à publicação: cuidamos de toda a parte técnica para você focar apenas em receber os novos clientes.",
     "items": [
       {
-        "icon": "sprout",
-        "title": "Plantas ornamentais",
-        "description": "Espécies para dentro e fora de casa, selecionadas para trazer mais verde, beleza e vida ao seu ambiente."
+        "icon": "rocket",
+        "title": "Landing Pages",
+        "description": "Páginas de vendas de alta conversão focadas em um único produto ou serviço, ideais para campanhas de tráfego pago."
       },
       {
-        "icon": "home",
-        "title": "Vasos e decoração",
-        "description": "Vasos, cachepôs e acessórios para combinar com o seu estilo e valorizar cada planta."
+        "icon": "layout",
+        "title": "Sites Institucionais",
+        "description": "A vitrine perfeita para sua empresa. Apresente seus serviços, equipe e história com autoridade e elegância."
       },
       {
-        "icon": "shovel",
-        "title": "Jardim e paisagismo",
-        "description": "Insumos e orientação prática para plantar, cuidar e manter seu jardim bonito o ano inteiro."
+        "icon": "shopping-cart",
+        "title": "Lojas Virtuais",
+        "description": "E-commerces completos com integração de pagamentos, cálculo de frete e painel administrativo simples."
       },
       {
-        "icon": "droplets",
-        "title": "Produtos para piscina",
-        "description": "Tudo para manter sua piscina limpa, equilibrada e pronta para os melhores momentos."
+        "icon": "search",
+        "title": "Otimização Google (SEO)",
+        "description": "Estruturação técnica focada nas diretrizes do Google para ajudar seu site a alcançar as melhores posições organicamente."
       },
       {
-        "icon": "package",
-        "title": "Terra e adubos",
-        "description": "Substratos e adubos que ajudam suas plantas a crescerem fortes, saudáveis e por muito mais tempo."
+        "icon": "smartphone",
+        "title": "Design Responsivo",
+        "description": "Seu site perfeitamente adaptado para celulares, tablets e computadores, garantindo a melhor experiência de navegação."
       },
       {
-        "icon": "flower",
-        "title": "Atendimento especializado",
-        "description": "Conte com uma equipe próxima para encontrar exatamente o produto certo para a sua necessidade."
+        "icon": "shield",
+        "title": "Suporte e Segurança",
+        "description": "Configuração de certificados de segurança SSL e suporte técnico pós-entrega para o seu site nunca parar."
       }
     ]
   },
   "portfolio": {
-    "eyebrow": "Nosso trabalho",
-    "title": "Um pouco do nosso trabalho",
-    "description": "Fotos reais de serviços, produtos e ambientes. Fale com a gente pelo WhatsApp para saber mais.",
+    "eyebrow": "Projetos Recentes",
+    "title": "Quem já se posicionou com a gente",
+    "description": "Conheça alguns dos projetos desenvolvidos pela Crivo Sites que estão gerando valor na internet.",
     "items": []
   },
   "about": {
-    "eyebrow": "Sobre a Busca Vida Garden",
-    "titleBefore": "Natureza que",
-    "titleHighlight": "transforma",
-    "titleAfter": "ambientes",
-    "description": "Cuidar do seu espaço pode ser simples. Na Busca Vida Garden você encontra tudo para cultivar, decorar e aproveitar melhor cada cantinho da sua casa — com quem entende de planta ao seu lado.",
+    "eyebrow": "Sobre a Crivo Sites",
+    "titleBefore": "Tecnologia que",
+    "titleHighlight": "impulsiona",
+    "titleAfter": "o seu negócio",
+    "description": "Ter um site não é apenas um capricho, é uma necessidade de mercado. Na Crivo Sites criamos ferramentas de vendas sob medida para o seu nicho, aproximando sua empresa de novos clientes todos os dias.",
     "values": [
-      {
-        "icon": "check",
-        "title": "Qualidade garantida",
-        "description": "Produtos selecionados para acompanhar a sua rotina de cuidado."
-      },
-      {
-        "icon": "layers",
-        "title": "Variedade de verdade",
-        "description": "Opções para encontrar tudo o que precisa em uma única visita."
-      },
-      {
-        "icon": "shield",
-        "title": "Confiança",
-        "description": "Atendimento honesto e próximo, do primeiro contato à entrega."
-      },
-      {
-        "icon": "users",
-        "title": "Atendimento próximo",
-        "description": "A sua casa e o seu jardim são sempre o centro da conversa."
-      },
-      {
-        "icon": "home",
-        "title": "Para a sua casa",
-        "description": "Soluções pensadas para todos os tipos de ambiente."
-      },
-      {
-        "icon": "sun",
-        "title": "Vida ao ar livre",
-        "description": "Mais verde, beleza e bem-estar para aproveitar do lado de fora."
-      }
+      { "icon": "zap", "title": "Velocidade Extrema", "description": "Sites leves que carregam instantaneamente no celular." },
+      { "icon": "target", "title": "Foco em Conversão", "description": "Layouts planejados estrategicamente para prender a atenção do cliente." },
+      { "icon": "check-circle", "title": "Entrega Rápida", "description": "Processo ágil de desenvolvimento sem burocracias desnecessárias." },
+      { "icon": "users", "title": "Suporte Descomplicado", "description": "Atendimento direto com os desenvolvedores, sem termos técnicos difíceis." },
+      { "icon": "lock", "title": "Segurança Total", "description": "Proteção de dados e estabilidade garantida para o seu domínio." },
+      { "icon": "trending-up", "title": "Escalabilidade", "description": "Sua plataforma pronta para crescer junto com o faturamento da empresa." }
     ],
     "stats": [
-      {
-        "number": "50+",
-        "label": "Categorias"
-      },
-      {
-        "number": "45+",
-        "label": "Produtos selecionados"
-      },
-      {
-        "number": "30+",
-        "label": "Soluções para jardim"
-      },
-      {
-        "number": "3+",
-        "label": "Anos cuidando de jardins"
-      }
+      { "number": "100%", "label": "Responsivo" },
+      { "number": "50+", "label": "Projetos Ativos" },
+      { "number": "10x", "label": "Mais Autoridade" },
+      { "number": "24/7", "label": "Site no Ar" }
     ]
   },
   "process": {
-    "eyebrow": "Como podemos ajudar",
+    "eyebrow": "Metodologia Ágil",
     "titleBefore": "Do",
-    "titleHighlight": "primeiro vaso",
-    "titleMiddle": "ao",
-    "titleAfter": "jardim completo",
-    "description": "Em três passos simples, você sai da loja com tudo o que precisa para transformar seu espaço — sem dúvida, sem retrabalho.",
+    "titleHighlight": "briefing inicial",
+    "titleMiddle": "ao seu site",
+    "titleAfter": "vendendo na internet",
+    "description": "Um processo claro e sem dores de cabeça em apenas 3 passos simples para digitalizar sua empresa.",
     "steps": [
       {
-        "icon": "lightbulb",
-        "title": "1. Escolha e planejamento",
-        "description": "Entendemos o que você procura e indicamos as plantas, vasos e produtos ideais para o seu espaço."
+        "icon": "message-square",
+        "title": "1. Planejamento e Conteúdo",
+        "description": "Alinhamos os objetivos do seu negócio, coletamos suas informações e definimos a melhor estratégia visual."
       },
       {
-        "icon": "palette",
-        "title": "2. Montagem e cuidado",
-        "description": "Com os produtos certos, você cria composições bonitas e mantém as plantas saudáveis por mais tempo."
+        "icon": "code",
+        "title": "2. Desenvolvimento e Design",
+        "description": "Nossa equipe codifica e desenha o layout focado na usabilidade, criando uma experiência moderna."
       },
       {
-        "icon": "rocket",
-        "title": "3. Aproveite seu espaço",
-        "description": "Leve mais verde para dentro e para fora de casa e conte com a gente sempre que precisar."
+        "icon": "globe",
+        "title": "3. Publicação e Resultados",
+        "description": "Configuramos seu domínio, colocamos a página no ar e seu negócio está pronto para receber cliques e vendas."
       }
     ]
   },
   "testimonials": {
-    "eyebrow": "Quem conhece, recomenda",
-    "title": "Mais de 3 anos ajudando a transformar casas em Camaçari",
-    "description": "Na Busca Vida Garden, qualidade e cuidado vêm sempre em primeiro lugar. Veja o que dizem quem já levou nossas plantas e soluções para casa.",
+    "eyebrow": "Clientes Satisfeitos",
+    "title": "Empresas que mudaram de patamar digital",
+    "description": "Veja o depoimento de empreendedores que confiaram a presença online de suas marcas à Crivo Sites.",
     "items": [
       {
-        "quote": "Encontrei plantas lindas e um atendimento que realmente entende do assunto. Minha casa ficou muito mais viva.",
-        "name": "Ana Paula Souza",
-        "role": "Cliente residencial"
+        "quote": "A landing page que a Crivo Sites desenvolveu dobrou o retorno das minhas campanhas de anúncios. Trabalho impecável!",
+        "name": "Marcos Roberto",
+        "role": "Consultor Financeiro"
       },
       {
-        "quote": "A equipe ajudou a escolher os vasos e os cuidados para cada ambiente. Foi fácil, rápido e o resultado ficou lindo.",
-        "name": "Carlos Henrique Lima",
-        "role": "Cliente residencial"
+        "quote": "Precisava de um site institucional rápido e elegante. Eles entregaram antes do prazo e deram um suporte incrível.",
+        "name": "Juliana Mendes",
+        "role": "Advogada Associada"
       },
       {
-        "quote": "Além da variedade, gostei muito da orientação. Saí com tudo o que precisava para montar meu jardim.",
-        "name": "Mariana Oliveira",
-        "role": "Paisagista"
+        "quote": "Minha loja virtual ficou linda e muito fácil de gerenciar pelo celular. Os clientes sempre elogiam a facilidade de comprar.",
+        "name": "Ricardo Alves",
+        "role": "CEO de E-commerce de Moda"
       }
     ]
   },
   "faq": {
-    "eyebrow": "Perguntas frequentes",
-    "title": "Ainda tem dúvida? A gente responde",
-    "description": "As perguntas que mais recebemos de quem está montando ou cuidando do jardim.",
+    "eyebrow": "Dúvidas Frequentes",
+    "title": "Respondemos suas principais perguntas",
+    "description": "Entenda como funciona o mercado de criação de sites e tire suas dúvidas de forma direta.",
     "items": [
       {
-        "question": "Onde fica a Busca Vida Garden?",
-        "answer": "Estamos na R Direta de Busca Vida, S/N, Quadra 16, Catu de Abrantes, Camaçari - BA (CEP 42.825-576). Se preferir, fale com a gente pelo WhatsApp que enviamos a localização exata."
+        "question": "Eu preciso já ter um domínio (.com.br) para contratar?",
+        "answer": "Não necessariamente. Nós auxiliamos você na escolha e no processo de registro do nome ideal para a sua empresa nas plataformas oficiais."
       },
       {
-        "question": "Quais produtos vocês oferecem?",
-        "answer": "Plantas ornamentais, vasos e itens de decoração, substratos e adubos, insumos para jardim e paisagismo e a linha completa de produtos para piscina."
+        "question": "Quanto tempo demora para o site ficar pronto?",
+        "answer": "O prazo varia de acordo com a complexidade. Uma Landing Page costuma ser entregue em até 7 dias úteis, enquanto projetos maiores podem levar de 15 a 30 dias."
       },
       {
-        "question": "Vocês ajudam a escolher as plantas certas para o meu espaço?",
-        "answer": "Sim. Nossa equipe entende a sua necessidade (sol, sombra, espaço interno ou externo) e indica as espécies e os cuidados ideais para cada ambiente."
+        "question": "O site funciona bem em celulares?",
+        "answer": "Com certeza. Todos os sites criados pela Crivo Sites utilizam a tecnologia Mobile-First, garantindo carregamento rápido e layout perfeito em telas de smartphones."
       },
       {
-        "question": "Preciso agendar para ser atendido?",
-        "answer": "Não é obrigatório. Você pode passar na loja no horário de atendimento — de segunda a sexta, das 8h às 18h, e sábado das 8h às 12h. Se quiser garantir um atendimento dedicado, chame no WhatsApp antes."
+        "question": "Consigo alterar os textos e fotos do site sozinho mais tarde?",
+        "answer": "Sim. Desenvolvemos com estruturas amigáveis ou painéis intuitivos para que você tenha total autonomia para fazer edições simples sempre que desejar."
       },
       {
-        "question": "Como faço para pedir um orçamento ou tirar dúvidas?",
-        "answer": "É só tocar no botão de WhatsApp em qualquer parte do site. Você fala direto com nossa equipe e recebe a orientação que precisa."
+        "question": "Como faço para iniciar o meu projeto?",
+        "answer": "Basta clicar em qualquer botão de WhatsApp aqui no site. Você será atendido por um especialista para conversar sobre o que sua empresa precisa."
       }
     ]
   },
   "contact": {
-    "eyebrow": "Próximo passo",
-    "titleBefore": "Vamos cuidar do seu",
-    "titleHighlight": "jardim hoje?",
-    "titleAfter": "",
-    "description": "Fale com a Busca Vida Garden e encontre as plantas, os vasos e os produtos certos para transformar o seu espaço. Respondemos rápido.",
-    "ctaLabel": "Solicitar orçamento pelo WhatsApp",
-    "ctaUrl": "https://wa.me/5571997092070?text=Olá!%20Gostaria%20de%20um%20orçamento%20na%20Busca%20Vida%20Garden.",
-    "ctaNote": "Fale direto com a nossa equipe — sem robô, sem espera.",
-    "visitEyebrow": "Visite a loja",
-    "visitTitle": "Estamos perto de você",
-    "addressLabel": "Endereço",
-    "addressLines": [
-      "R Direta de Busca Vida, S/N, Quadra 16",
-      "Catu de Abrantes, Camaçari - BA",
-      "CEP 42.825-576"
-    ],
-    "mapLabel": "Abrir no Google Maps",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=R+Direta+de+Busca+Vida,+S/N,+Quadra+16,+Catu+de+Abrantes,+Camaçari+-+BA,+42825-576",
-    "mapEmbedUrl": "https://www.google.com/maps?q=R%20Direta%20de%20Busca%20Vida%2C%20S%2FN%2C%20Quadra%2016%2C%20Catu%20de%20Abrantes%2C%20Cama%C3%A7ari%20-%20BA%2042825-576&output=embed",
-    "phoneLabel": "Telefone",
-    "phone": "(71) 99709-2070",
-    "phoneUrl": "tel:+5571997092070",
-    "hoursLabel": "Horário de atendimento",
-    "hoursLines": [
-      "Segunda a sexta: 8h às 18h",
-      "Sábado: 8h às 12h"
-    ],
-    "hoursStructured": [
-      {
-        "days": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday"
-        ],
-        "opens": "08:00",
-        "closes": "18:00"
-      },
-      {
-        "days": [
-          "Saturday"
-        ],
-        "opens": "08:00",
-        "closes": "12:00"
-      }
-    ]
-  },
-  "footer": {
-    "navigationTitle": "Navegação",
-    "socialTitle": "Fale com a gente",
-    "socials": [
-      {
-        "icon": "instagram",
-        "label": "Instagram",
-        "url": "https://www.instagram.com/buscavidagarden9"
-      },
-      {
-        "icon": "whatsapp",
-        "label": "WhatsApp",
-        "url": "https://wa.me/5571997092070"
-      }
-    ],
-    "note": "Somos especializados em plantas, jardinagem, paisagismo e produtos para piscina em Camaçari - BA."
-  },
-  "colors": {
-    "primary": "#3f9f5b",
-    "primaryForeground": "#ffffff",
-    "background": "#fbfdf9",
-    "foreground": "#18221b",
-    "mutedForeground": "#647067"
-  }
+    "eyebrow": "Próximo Passo",
+    "titleBefore": "Pronto para ter um",
+"titleHighlight": "site de sucesso?",
+"titleAfter": "",
+"description": "Fale com a equipe da Crivo Sites. Descubra a solução digital perfeita para o tamanho atual do seu orçamento.",
+"ctaLabel": "Solicitar Orçamento no WhatsApp",
+"ctaUrl": "wa.me! Gostaria de fazer o orçamento para um site.",
+"ctaNote": "Atendimento rápido, humano e focado nos seus objetivos comerciais.",
+"visitEyebrow": "Atendimento",
+"visitTitle": "100% Online e Seguro",
+"addressLabel": "Disponibilidade",
+"addressLines": [
+"Projetos para empresas de todo o Brasil",
+"Reuniões via Google Meet ou WhatsApp",
+"Acesso Global"
+],
+"mapLabel": "Visitar Nosso Portfólio",
+"mapUrl": "#portfolio",
+"mapEmbedUrl": "",
+"phoneLabel": "WhatsApp comercial",
+"phone": "(00) 00000-0000",
+"phoneUrl": "tel:+5500000000000",
+"hoursLabel": "Horário de atendimento",
+"hoursLines": [
+"Segunda a sexta: 9h às 18h",
+"Sábado: 9h às 13h"
+],
+"hoursStructured": [
+{
+"days": [ "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" ],
+"opens": "09:00",
+"closes": "18:00"
+},
+{
+"days": [ "Saturday" ],
+"opens": "09:00",
+"closes": "13:00"
+}
+]
+},
+"footer": {
+"navigationTitle": "Navegação",
+"socialTitle": "Redes Sociais",
+"socials": [
+{ "icon": "instagram", "label": "Instagram", "url": "instagram.com" },
+{ "icon": "whatsapp", "label": "WhatsApp", "url": "wa.me" }
+],
+"note": "A Crivo Sites é especializada em criar páginas de alta conversão, lojas virtuais e portfólios para empresas que buscam crescimento real na internet."
+},
+"colors": {
+"primary": "#2563eb",
+"primaryForeground": "#ffffff",
+"background": "#f8fafc",
+"foreground": "#0f172a",
+"mutedForeground": "#475569"
+}
 }
