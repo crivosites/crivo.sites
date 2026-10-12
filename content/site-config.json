@@ -50,12 +50,30 @@
   },
   "navbar": {
     "links": [
-      { "label": "Soluções", "href": "#servicos" },
-      { "label": "Portfólio", "href": "#portfolio" },
-      { "label": "Sobre nós", "href": "#sobre-nos" },
-      { "label": "Como funciona", "href": "#como-funciona" },
-      { "label": "Depoimentos", "href": "#depoimentos" },
-      { "label": "Dúvidas", "href": "#faq" }
+      {
+        "label": "Soluções",
+        "href": "#servicos"
+      },
+      {
+        "label": "Portfólio",
+        "href": "#portfolio"
+      },
+      {
+        "label": "Sobre nós",
+        "href": "#sobre-nos"
+      },
+      {
+        "label": "Como funciona",
+        "href": "#como-funciona"
+      },
+      {
+        "label": "Depoimentos",
+        "href": "#depoimentos"
+      },
+      {
+        "label": "Dúvidas",
+        "href": "#faq"
+      }
     ],
     "ctaLabel": "Solicitar Site",
     "ctaUrl": "https://wa.me?text=Olá! Quero criar um site para o meu negócio.",
@@ -121,7 +139,14 @@
     "eyebrow": "Projetos Recentes",
     "title": "Quem já se posicionou com a gente",
     "description": "Conheça alguns dos projetos desenvolvidos pela Crivo Sites que estão gerando valor na internet.",
-    "items": []
+    "items": [
+      {
+        "image": "/api/uploads/1791848478813-head-crivosites-ujp602oz.png",
+        "title": "Novo trabalho",
+        "category": "",
+        "description": "Descreva o serviço ou o ambiente da foto."
+      }
+    ]
   },
   "about": {
     "eyebrow": "Sobre a Crivo Sites",
@@ -130,18 +155,54 @@
     "titleAfter": "o seu negócio",
     "description": "Ter um site não é apenas um capricho, é uma necessidade de mercado. Na Crivo Sites criamos ferramentas de vendas sob medida para o seu nicho, aproximando sua empresa de novos clientes todos os dias.",
     "values": [
-      { "icon": "zap", "title": "Velocidade Extrema", "description": "Sites leves que carregam instantaneamente no celular." },
-      { "icon": "target", "title": "Foco em Conversão", "description": "Layouts planejados estrategicamente para prender a atenção do cliente." },
-      { "icon": "check-circle", "title": "Entrega Rápida", "description": "Processo ágil de desenvolvimento sem burocracias desnecessárias." },
-      { "icon": "users", "title": "Suporte Descomplicado", "description": "Atendimento direto com os desenvolvedores, sem termos técnicos difíceis." },
-      { "icon": "lock", "title": "Segurança Total", "description": "Proteção de dados e estabilidade garantida para o seu domínio." },
-      { "icon": "trending-up", "title": "Escalabilidade", "description": "Sua plataforma pronta para crescer junto com o faturamento da empresa." }
+      {
+        "icon": "zap",
+        "title": "Velocidade Extrema",
+        "description": "Sites leves que carregam instantaneamente no celular."
+      },
+      {
+        "icon": "target",
+        "title": "Foco em Conversão",
+        "description": "Layouts planejados estrategicamente para prender a atenção do cliente."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Entrega Rápida",
+        "description": "Processo ágil de desenvolvimento sem burocracias desnecessárias."
+      },
+      {
+        "icon": "users",
+        "title": "Suporte Descomplicado",
+        "description": "Atendimento direto com os desenvolvedores, sem termos técnicos difíceis."
+      },
+      {
+        "icon": "lock",
+        "title": "Segurança Total",
+        "description": "Proteção de dados e estabilidade garantida para o seu domínio."
+      },
+      {
+        "icon": "trending-up",
+        "title": "Escalabilidade",
+        "description": "Sua plataforma pronta para crescer junto com o faturamento da empresa."
+      }
     ],
     "stats": [
-      { "number": "100%", "label": "Responsivo" },
-      { "number": "50+", "label": "Projetos Ativos" },
-      { "number": "10x", "label": "Mais Autoridade" },
-      { "number": "24/7", "label": "Site no Ar" }
+      {
+        "number": "100%",
+        "label": "Responsivo"
+      },
+      {
+        "number": "50+",
+        "label": "Projetos Ativos"
+      },
+      {
+        "number": "10x",
+        "label": "Mais Autoridade"
+      },
+      {
+        "number": "24/7",
+        "label": "Site no Ar"
+      }
     ]
   },
   "process": {
@@ -221,58 +282,74 @@
   "contact": {
     "eyebrow": "Próximo Passo",
     "titleBefore": "Pronto para ter um",
-"titleHighlight": "site de sucesso?",
-"titleAfter": "",
-"description": "Fale com a equipe da Crivo Sites. Descubra a solução digital perfeita para o tamanho atual do seu orçamento.",
-"ctaLabel": "Solicitar Orçamento no WhatsApp",
-"ctaUrl": "wa.me! Gostaria de fazer o orçamento para um site.",
-"ctaNote": "Atendimento rápido, humano e focado nos seus objetivos comerciais.",
-"visitEyebrow": "Atendimento",
-"visitTitle": "100% Online e Seguro",
-"addressLabel": "Disponibilidade",
-"addressLines": [
-"Projetos para empresas de todo o Brasil",
-"Reuniões via Google Meet ou WhatsApp",
-"Acesso Global"
-],
-"mapLabel": "Visitar Nosso Portfólio",
-"mapUrl": "#portfolio",
-"mapEmbedUrl": "",
-"phoneLabel": "WhatsApp comercial",
-"phone": "(00) 00000-0000",
-"phoneUrl": "tel:+5500000000000",
-"hoursLabel": "Horário de atendimento",
-"hoursLines": [
-"Segunda a sexta: 9h às 18h",
-"Sábado: 9h às 13h"
-],
-"hoursStructured": [
-{
-"days": [ "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" ],
-"opens": "09:00",
-"closes": "18:00"
-},
-{
-"days": [ "Saturday" ],
-"opens": "09:00",
-"closes": "13:00"
-}
-]
-},
-"footer": {
-"navigationTitle": "Navegação",
-"socialTitle": "Redes Sociais",
-"socials": [
-{ "icon": "instagram", "label": "Instagram", "url": "instagram.com" },
-{ "icon": "whatsapp", "label": "WhatsApp", "url": "wa.me" }
-],
-"note": "A Crivo Sites é especializada em criar páginas de alta conversão, lojas virtuais e portfólios para empresas que buscam crescimento real na internet."
-},
-"colors": {
-"primary": "#2563eb",
-"primaryForeground": "#ffffff",
-"background": "#f8fafc",
-"foreground": "#0f172a",
-"mutedForeground": "#475569"
-}
+    "titleHighlight": "site de sucesso?",
+    "titleAfter": "",
+    "description": "Fale com a equipe da Crivo Sites. Descubra a solução digital perfeita para o tamanho atual do seu orçamento.",
+    "ctaLabel": "Solicitar Orçamento no WhatsApp",
+    "ctaUrl": "wa.me! Gostaria de fazer o orçamento para um site.",
+    "ctaNote": "Atendimento rápido, humano e focado nos seus objetivos comerciais.",
+    "visitEyebrow": "Atendimento",
+    "visitTitle": "100% Online e Seguro",
+    "addressLabel": "Disponibilidade",
+    "addressLines": [
+      "Projetos para empresas de todo o Brasil",
+      "Reuniões via Google Meet ou WhatsApp",
+      "Acesso Global"
+    ],
+    "mapLabel": "Visitar Nosso Portfólio",
+    "mapUrl": "#portfolio",
+    "mapEmbedUrl": "",
+    "phoneLabel": "WhatsApp comercial",
+    "phone": "(00) 00000-0000",
+    "phoneUrl": "tel:+5500000000000",
+    "hoursLabel": "Horário de atendimento",
+    "hoursLines": [
+      "Segunda a sexta: 9h às 18h",
+      "Sábado: 9h às 13h"
+    ],
+    "hoursStructured": [
+      {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      {
+        "days": [
+          "Saturday"
+        ],
+        "opens": "09:00",
+        "closes": "13:00"
+      }
+    ]
+  },
+  "footer": {
+    "navigationTitle": "Navegação",
+    "socialTitle": "Redes Sociais",
+    "socials": [
+      {
+        "icon": "instagram",
+        "label": "Instagram",
+        "url": "instagram.com"
+      },
+      {
+        "icon": "whatsapp",
+        "label": "WhatsApp",
+        "url": "wa.me"
+      }
+    ],
+    "note": "A Crivo Sites é especializada em criar páginas de alta conversão, lojas virtuais e portfólios para empresas que buscam crescimento real na internet."
+  },
+  "colors": {
+    "primary": "#2563eb",
+    "primaryForeground": "#ffffff",
+    "background": "#f8fafc",
+    "foreground": "#0f172a",
+    "mutedForeground": "#475569"
+  }
 }
