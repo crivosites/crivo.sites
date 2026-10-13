@@ -142,9 +142,15 @@
     "items": [
       {
         "image": "/api/uploads/1791848478813-head-crivosites-ujp602oz.png",
-        "title": "Novo trabalho",
+        "title": "Crivo Sites",
         "category": "",
-        "description": "Descreva o serviço ou o ambiente da foto."
+        "description": "Conheça os benefícios de um site profissional para vender mais na internet. Criamos landing pages e lojas virtuais velozes e otimizadas para o Google."
+      },
+      {
+        "image": "/api/uploads/1791860664104-head-goldencareestetica-ck3f0g5s.png",
+        "title": "Golden Care (Clínica de Estética)",
+        "category": "",
+        "description": "Clínica de Estética em Vilas do Atlântico | Golden Care Lauro de Freitas"
       }
     ]
   },
