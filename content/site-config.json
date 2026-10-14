@@ -76,7 +76,7 @@
       }
     ],
     "ctaLabel": "Solicitar Site",
-    "ctaUrl": "https://wa.me?text=Olá! Quero criar um site para o meu negócio.",
+    "ctaUrl": "https://wa.me/5571982399393?text=Olá! Quero criar um site para o meu negócio.",
     "menuTitle": "Menu",
     "menuDescription": "Navegue pelo nosso site",
     "menuToggleLabel": "Abrir menu",
@@ -304,7 +304,7 @@
     "titleAfter": "",
     "description": "Fale com a equipe da Crivo Sites. Descubra a solução digital perfeita para o tamanho atual do seu orçamento.",
     "ctaLabel": "Solicitar Orçamento no WhatsApp",
-    "ctaUrl": "wa.me! Gostaria de fazer o orçamento para um site.",
+    "ctaUrl": "https://wa.me/5571982399393?Gostaria de fazer o orçamento para um site.",
     "ctaNote": "Atendimento rápido, humano e focado nos seus objetivos comerciais.",
     "visitEyebrow": "Atendimento",
     "visitTitle": "100% Online e Seguro",
@@ -358,7 +358,7 @@
       {
         "icon": "whatsapp",
         "label": "WhatsApp",
-        "url": "wa.me"
+        "url": "https://wa.me/5571982399393?"
       }
     ],
     "note": "A Crivo Sites é especializada em criar páginas de alta conversão, lojas virtuais e portfólios para empresas que buscam crescimento real na internet."
