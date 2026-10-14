@@ -42,11 +42,11 @@
     "name": "Crivo Sites",
     "tagline": "Sites profissionais que geram resultados",
     "copyright": "© 2026 Crivo Sites. Todos os direitos reservados.",
-    "whatsappUrl": "https://wa.me",
+    "whatsappUrl": "https://wa.me/5571982399393",
     "instagramUrl": "https://instagram.com",
-    "email": "contato@crivosites.com.br",
-    "phoneLabel": "(00) 00000-0000",
-    "phoneUrl": "tel:+5500000000000"
+    "email": "crivo.sites@gmail.com",
+    "phoneLabel": "(71) 98239-9393",
+    "phoneUrl": "tel:+5571982399393"
   },
   "navbar": {
     "links": [
@@ -88,7 +88,7 @@
     "highlight": "com um site profissional",
     "description": "Criamos landing pages, sites institucionais e lojas virtuais de alta performance — totalmente otimizados para o Google, velozes e prontos para converter visitantes em clientes pagantes.",
     "primaryLabel": "Criar Meu Site Agora",
-    "primaryUrl": "https://wa.me?text=Olá! Quero um orçamento de site profissional.",
+    "primaryUrl": "https://wa.me/5571982399393?text=Ol%C3%A1!%20Quero%20um%20or%C3%A7amento%20de%20site%20profissional.",
     "secondaryLabel": "Conhecer Soluções",
     "secondaryUrl": "#servicos",
     "tags": [
@@ -145,6 +145,12 @@
         "title": "Crivo Sites",
         "category": "",
         "description": "Conheça os benefícios de um site profissional para vender mais na internet. Criamos landing pages e lojas virtuais velozes e otimizadas para o Google."
+      },
+      {
+        "image": "/api/uploads/1791975998365-head-buscavidagarden-huu4j98z.png",
+        "title": "Busca Vida Garden",
+        "category": "",
+        "description": "Viveiro de Plantas | Busca Vida"
       },
       {
         "image": "/api/uploads/1791860664104-head-goldencareestetica-ck3f0g5s.png",
@@ -312,11 +318,11 @@
     "mapUrl": "#portfolio",
     "mapEmbedUrl": "",
     "phoneLabel": "WhatsApp comercial",
-    "phone": "(00) 00000-0000",
-    "phoneUrl": "tel:+5500000000000",
+    "phone": "(71) 98239-9393",
+    "phoneUrl": "tel:+5571982399393",
     "hoursLabel": "Horário de atendimento",
     "hoursLines": [
-      "Segunda a sexta: 9h às 18h",
+      "Segunda a sexta: 8h às 18h",
       "Sábado: 9h às 13h"
     ],
     "hoursStructured": [
@@ -328,7 +334,7 @@
           "Thursday",
           "Friday"
         ],
-        "opens": "09:00",
+        "opens": "08:00",
         "closes": "18:00"
       },
       {
