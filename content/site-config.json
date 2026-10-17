@@ -154,15 +154,21 @@
       },
       {
         "image": "/api/uploads/1791860664104-head-goldencareestetica-ck3f0g5s.png",
-        "title": "Golden Care (Clínica de Estética)",
+        "title": "Clínica de Estética",
         "category": "",
-        "description": "Clínica de Estética em Vilas do Atlântico | Golden Care Lauro de Freitas"
+        "description": "Clínica de Estética em Vilas do Atlântico"
       },
       {
         "image": "/api/uploads/1791869470370-head-topclin-estetica-uh8hrevf.png",
-        "title": "Topclin Estética",
+        "title": "Clínica de Estética",
         "category": "",
-        "description": "Clínica de Estética | Topclin Lauro de Freitas"
+        "description": "Clínica de Estética | Lauro de Freitas"
+      },
+      {
+        "image": "/api/uploads/1792251586915-head-ar-condicionado-bu2rq5j7.png",
+        "title": "Serviços em Ar-Condicionado",
+        "category": "",
+        "description": "Modelo - Serviço em Ar-Condicionados"
       }
     ]
   },
