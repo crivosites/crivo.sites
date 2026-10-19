@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     title: siteConfig.meta.ogTitle || siteConfig.meta.title,
     description: siteConfig.meta.ogDescription || siteConfig.meta.description,
   },
-  icons: { icon: [{ url: "/icon.svg", type: "image/svg+xml" }, { url: "/favicon.ico", sizes: "32x32" }], apple: "/apple-icon.png" },
+  // A propriedade fixed 'icons' foi removida daqui para permitir a detecção automática do icon.png na pasta app
   ...(process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION
     ? { verification: { google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION } }
     : {}),
